@@ -1,5 +1,5 @@
 #Just a list of things
-things=['apple','banana','cat', 'dog', 'egg', 'fish']
+things=['apple','banana','cat']
 print(things)
 
 pet=things[2]
