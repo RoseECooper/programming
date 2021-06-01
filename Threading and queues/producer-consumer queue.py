@@ -1,4 +1,6 @@
 #looking at the producer-consumer problem using queue 
+#Also taken from real python website: https://realpython.com/intro-to-python-threading/
+
 import logging 
 import threading
 import concurrent.futures
