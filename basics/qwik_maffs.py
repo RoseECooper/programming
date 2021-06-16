@@ -7,3 +7,10 @@ b=3*5
 c=10-2
 
 print(a, b, c)
+
+#Didn't fix the terminal thing, but I vaguely remember being told about the debugging feature of VSCode which I think does what I wanted
+# Now I'm playing around with branches... so lets see how this goes!
+
+maff=(a+b)*c 
+print(maff)
+ 
