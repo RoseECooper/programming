@@ -13,4 +13,3 @@ print(a, b, c)
 
 maff=(a+b)*c 
 print(maff)
- 
