@@ -1,0 +1,3 @@
+adding text
+so that its different
+to make sure I understand squashing commits
