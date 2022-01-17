@@ -1,3 +1,7 @@
 adding text
 so that its different
 to make sure I understand squashing commits
+
+put some more bit's in that I forgot
+so that I have something to squashing
+this file is basically pointless
